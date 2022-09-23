@@ -151,7 +151,7 @@ ply==3.11
 pmdarima==1.5.2
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-protobuf==3.11.2
+protobuf==3.18.3
 psutil==5.6.3
 py==1.8.0
 pycodestyle==2.5.0
